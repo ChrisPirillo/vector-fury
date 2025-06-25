@@ -5,4 +5,6 @@ Play Vector Fury, a fast-paced, full-viewport arcade game. Capture targets, use 
 
 ---
 
+![Screenshot](https://github.com/ChrisPirillo/vector-fury/blob/main/assets/screenshot.png?raw=true)
+
 * Try it now: [https://pirillo.com/arcade/vector-fury.html](https://pirillo.com/arcade/vector-fury.html)
